@@ -1,0 +1,17 @@
+{
+    "gala": {
+        "cust_name": "monak",
+        "book_title": "gala",
+        "return_day": 13
+    },
+    "mahabharat": {
+        "cust_name": "darpan",
+        "book_title": "mahabharat",
+        "return_day": 16
+    },
+    "navnit": {
+        "cust_name": "utsav",
+        "book_title": "navnit",
+        "return_day": 12
+    }
+}
